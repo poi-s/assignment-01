@@ -1,3 +1,10 @@
+*{
+padding: 0px 20px;
+
+
+}
+
+
 .site-hero{
 background: url(./Hero-bg.png);
 padding: 20px 250px 30px 250px;
@@ -73,15 +80,55 @@ height: 240px;
    width: 1140px; 
   height: 775px;
   color: #0D1321;
+  padding-left: 100px;
 }
 .videos{
   text-align: center;
 padding:30px;
 max-width: 1000px;
+padding-left: 140px;
 
 }
 .goal{
  text-align: center;
 
+
+}
+.target{
+ display: flex;
+align-items: center;
+align-content: center;
+/* height: 1140px; */
+/* width: 300px; */
+padding-left: 400px;
+}
+.final-task{
+background-image: url(../assets/handshake.jpg);
+/* width: 1200px; */
+height: fit-content;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100%;
+
+}
+.final-task-ever{
+text-align: center;
+padding-bottom: 100px;
+
+}
+.bold{
+font-size: bolder;
+color: white;
+
+}
+.final-work{
+padding: 64px 205px 100px 205px;
+
+color: white;
+}
+.btn-last{
+size: 60%;
+height: 57px;
+width: 684px;
 
 }
