@@ -1,0 +1,87 @@
+.site-hero{
+background: url(./Hero-bg.png);
+padding: 20px 250px 30px 250px;
+ align-items: center; 
+display: flex; 
+flex-direction: column; 
+ text-align: center; 
+}
+.site-hero h1{
+  font-size: 48px;
+  font-weight: 700p;
+ line-height: 68px;
+  width: 998px; 
+  height: 136px;
+  display: flex;
+  text-align: center;
+
+
+}
+
+.btn{
+/* background-color: #0D1321; */
+display: flex;
+ align-items: center;
+justify-content: center;
+font-size: 18px;
+font-weight: 244px;
+width: 244px;
+height: 65px;
+background-color: #0D1321;
+color: aliceblue;
+}
+
+
+
+
+.text-middle{
+   text-align: center;
+
+}
+.banner-pic{
+ width: 274px;
+height: 240px;
+
+}
+.banner{
+  display: flex;
+   justify-content: space-between;
+   padding: 48px 48px;
+
+
+}
+.banner-content{
+ max-width: 477px;
+ height: 219px;
+
+
+
+}
+.second-banner-pic{
+  width: 240px;
+  height: 240px;
+  padding: 48px 658px 48px 48px;
+
+}
+.second-banner{
+  display: flex;
+  justify-content: space-between;
+
+}
+.text-third{
+  text-align: center;
+   width: 1140px; 
+  height: 775px;
+  color: #0D1321;
+}
+.videos{
+  text-align: center;
+padding:30px;
+max-width: 1000px;
+
+}
+.goal{
+ text-align: center;
+
+
+}
